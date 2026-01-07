@@ -1,12 +1,17 @@
 # Binge - Your next favorite food app!
 ## Use Binge to discover new restaurants around you!
+<a href="https://binge-94730.web.app/">Website Link</a>
 
 ## Overview
 - Binge is a client-side JavaScript web application designed to help users discover new restaurants through location based searching and interactive swiping. Users can explore nearby restaurants using a live map and filters, or swipe through personalized restaurant recommendations.
 - Originally developed for the COMP 1800 course at BCIT, this project applies User-Centred Design principles, agile project management, and integrates Firebase backend services to store user preferences such as saved restaurants (“Craves”) and rejected options (“Leftovers”).
 
 ---
-
+<img width="491" height="864" alt="image" src="https://github.com/user-attachments/assets/129537e4-bf12-4abb-9eb6-1a29fd591631" />
+<img width="1597" height="886" alt="image" src="https://github.com/user-attachments/assets/72dc35a6-0f54-4f43-8bfe-00061d2c0fd9" />
+<img width="728" height="846" alt="image" src="https://github.com/user-attachments/assets/08fda67e-0a6c-4aaa-a798-fca4b4f233e0" />
+<img width="433" height="839" alt="image" src="https://github.com/user-attachments/assets/c1dfda14-4b47-4809-9803-c3232abcb3a5" />
+<img width="433" height="839" alt="image" src="https://github.com/user-attachments/assets/b688f4aa-4d2c-4da1-8afb-61de418a0da3" />
 
 ## Features
 
@@ -20,6 +25,9 @@
 - Create reviews for restaurants in your Craves list
 
 ---
+
+
+
 
 
 ## Technologies Used
